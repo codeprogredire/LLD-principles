@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87924f2c-8338-42f8-897a-fedd3eb43e2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/BetterCode/UserContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/BetterCode/UserprofileUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/BetterCode/useUserFetcher.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1/UserProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/UserProfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/ProblematicCode/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/UserProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/ProblematicCode/UserProfile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -35,6 +40,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KISLAY\Documents\LowLevelDesignPrinciples\src\Lesson1\ProblematicCode" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

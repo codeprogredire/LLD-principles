@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 // Is there any issue with this code ????
+//This code violates Single Responsibility principle of SOLID design principles.
+
 function UserProfile() {
     const [user, setUser] = useState(null);
     const [loading, setLoading] = useState(false);
