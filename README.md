@@ -1,1 +1,1 @@
-Repository contains written while learning LLD Principles.
+This repository contains code written while learning LLD Principles.
