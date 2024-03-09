@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87924f2c-8338-42f8-897a-fedd3eb43e2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/BetterCode/UserContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/BetterCode/UserprofileUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/BetterCode/useUserFetcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/Example2Java/BetterCode/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/Example2Java/BetterCode/EmployeeSalaryCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/Example2Java/BetterCode/FetchEmployeeBioData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/ProblematicCode/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1/UserProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/ProblematicCode/UserProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Lesson2java/ProblematicCode/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/Example2Java/ProblematicCode/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +36,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KISLAY\Documents\LowLevelDesignPrinciples\src\Lesson1\Lesson2java\ProblematicCode" />
+      <recent name="C:\Users\KISLAY\Documents\LowLevelDesignPrinciples\src\Lesson1\Lesson2java" />
+      <recent name="C:\Users\KISLAY\Documents\LowLevelDesignPrinciples\src\Lesson1\Example1" />
       <recent name="C:\Users\KISLAY\Documents\LowLevelDesignPrinciples\src\Lesson1\ProblematicCode" />
     </key>
   </component>
