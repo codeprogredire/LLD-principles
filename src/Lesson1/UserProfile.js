@@ -1,3 +1,8 @@
+/*
+The problem with this code is that it is doing too much functionalities.
+It is violating the "Single Responsibility Principle of SOLID principles of LLD.
+*/
+
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 // Is there any issue with this code ????
